@@ -1,0 +1,22 @@
+{
+    "falsz": false, 
+    "liczba": 2, 
+    "lista": {
+        "druga": [
+            7, 
+            77, 
+            777, 
+            7777
+        ], 
+        "pierwsza": "a"
+    }, 
+    "numery": [
+        3, 
+        4, 
+        5, 
+        100
+    ], 
+    "owoc": "gruszka", 
+    "prawda": true, 
+    "warzywo": "pomidor"
+}
